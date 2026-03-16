@@ -90,6 +90,7 @@
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 
 ### **Cinematic Tools**
+- [FrameCoach](https://framecoach.io) – Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 - [Gyroflow](https://gyroflow.xyz/) – Video stabilization for drones.
 - [LUTs for D-Log & HLG](https://luts.iwltbap.com/)
 - [DJI LightCut](https://www.dji.com/lightcut) – AI-driven editing app.
