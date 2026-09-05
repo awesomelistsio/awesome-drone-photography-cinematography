@@ -1,4 +1,4 @@
-# Awesome Drone Photography & Cinematography [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Drone Photography & Cinematography [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -142,11 +142,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome UAV & Drone AI](https://github.com/awesomelistsio/awesome-uav-drone-ai)
-- [Awesome Photography](https://github.com/awesomelistsio/awesome-photography)
-- [Awesome Videography](https://github.com/awesomelistsio/awesome-videography)
-- [Awesome Cinematography](https://github.com/awesomelistsio/awesome-cinematography)
-- [Awesome Travel Filmmaking](https://github.com/awesomelistsio/awesome-travel-filmmaking)
+- [Awesome UAV & Drone AI](https://github.com/brandonhimpfen/awesome-uav-drone-ai)
+- [Awesome Photography](https://github.com/brandonhimpfen/awesome-photography)
+- [Awesome Videography](https://github.com/brandonhimpfen/awesome-videography)
+- [Awesome Cinematography](https://github.com/brandonhimpfen/awesome-cinematography)
+- [Awesome Travel Filmmaking](https://github.com/brandonhimpfen/awesome-travel-filmmaking)
 
 ## Contribute
 
